@@ -1,7 +1,7 @@
 # Endpoints
 
 | Endpoint    | HTTP Method |	CRUD Method |	Result            |
-|-------------|:-----------:|:-----------:|:-----------------:|
+|-------------|-------------|-------------|-------------------|
 | /notes/	    | GET	        | READ	      | get all notes     |
 | /notes/:id/ |	GET	        | READ	      | get a single note |
 | /notes/	    | POST	      | CREATE	    | add a note        |
